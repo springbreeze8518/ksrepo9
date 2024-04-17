@@ -4,8 +4,6 @@
 	<groupId>com.ksapp</groupId>
 	<artifactId>ks</artifactId>
 <<<<<<< HEAD
-	<version>10-SNAPSHOT</version>
-=======
 	<version>9-SNAPSHOT</version>
 >>>>>>> 341541fc3c4958abe9073c5a1826ca332b7a49e8
 	<packaging>war</packaging>
