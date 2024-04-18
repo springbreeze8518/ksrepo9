@@ -6,7 +6,7 @@
 
   <groupId>demo</groupId>
   <artifactId>ks</artifactId>
-  <version>1.0</version>
+  <version>5.0</version>
   <packaging>war</packaging>
 
   <name>ks Maven Webapp</name>
