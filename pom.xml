@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<<<<<<< HEAD
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
@@ -21,6 +22,20 @@
 
   <dependencies>
     <dependency>
+=======
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.ksapp</groupId>
+	<artifactId>ks</artifactId>
+<<<<<<< HEAD
+	<version>9-SNAPSHOT</version>
+>>>>>>> 341541fc3c4958abe9073c5a1826ca332b7a49e8
+	<packaging>war</packaging>
+	<name>Web Application</name>
+	<description>Java Webapp</description>
+	<dependencies>
+      <dependency>
+>>>>>>> e79e7fcf4033a839fc2a6eb55251ddcb74e1f937
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.11</version>
